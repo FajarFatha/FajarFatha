@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋, I'm Fajar Fatha Romadhan</h1>
 <h3 align="center">A Programmer and Developer</h3>
 
-<p align="center"> <img width="20%" height="20%" src="https://raw.githubusercontent.com/FajarFatha/FajarFatha-Profile/refs/heads/main/images/fajar.png" alt="fajafatha" /> </p>
+<!-- <p align="center"> <img width="20%" height="20%" src="https://raw.githubusercontent.com/FajarFatha/FajarFatha-Profile/refs/heads/main/images/fajar.png" alt="fajafatha" /> </p> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
