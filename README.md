@@ -1,4 +1,4 @@
-## Hi there I,m Fajar, a programmer and developer 👋
+## Hi there, I'm Fajar, a programmer and developer 👋
 
 <!--
 **FajarFatha/FajarFatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
