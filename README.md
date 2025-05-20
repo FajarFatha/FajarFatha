@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/fajar-fatha/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="refi tri hidayatullah" height="30" width="40" /></a>
-<a href="https://instagram.com/fajar_fatha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="refitrihidayatullah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fajar-fatha/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fajar LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/fajar_fatha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Fajar Instagram" height="30" width="40" /></a>
 
 <h3 align="center">More About Me: <a align="center" href="https://fajarfatha-profile.web.app/" target="_blank">fajarfatha-profile.web.app</a></h3>
 
